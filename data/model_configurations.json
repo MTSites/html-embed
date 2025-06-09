@@ -1,0 +1,84 @@
+{
+  "ESP": [
+    "2 Start x 5 Stage",
+    "1 Start x 5 Stage"
+  ],
+  "HTR270": [
+    "2 Start x 3 Stage x 1800mm x \u00d8270mm",
+    "2 Start x 2 Stage x 1800mm x \u00d8270mm",
+    "1 Start x 3 Stage x 1800mm x \u00d8270mm",
+    "1 Start x 2 Stage x 1800mm x \u00d8270mm"
+  ],
+  "HTR400": [
+    "1 Start x 3 Stage x 2000mm x \u00d8400mm",
+    "1 Start x 2 Stage x 2000mm x \u00d8400mm",
+    "2 Start x 3 Stage x 2000mm x \u00d8400mm",
+    "4 Start x 1 Stage x 2000mm x \u00d8400mm",
+    "2 Start x 2 Stage x 2000mm x \u00d8400mm"
+  ],
+  "RED400": [
+    "1 Start x 2 Stage x 1000mm x \u00d8400mm",
+    "1 Start x 1 Stage x 1000mm x \u00d8400mm + Scalper Drum",
+    "1 Start x 1 Stage x 1500mm x \u00d8400mm",
+    "1 Start x 1 Stage x 1500mm x \u00d8400mm (Scalper)",
+    "1 Start x 1 Stage x 1000mm x \u00d8400mm",
+    "1 Start x 1 Stage x 1000mm x \u00d8400mm (Scalper)",
+    "1 Start x 3 Stage x 1000mm x \u00d8400mm",
+    "1 Start x 2 Stage x 1000mm x \u00d8400mm + Scalper Drum",
+    "1 Start x 2 Stage x 1500mm x \u00d8400mm",
+    "1 Start x 1 Stage x 1500mm x \u00d8400mm + Scalper Drum",
+    "1 Start x 3 Stage x 1500mm x \u00d8400mm",
+    "1 Start x 2 Stage x 1500mm x \u00d8400mm + Scalper Drum"
+  ],
+  "RED600": [
+    "1 Start x 3 Stage x 1500mm x \u00d8600mm",
+    "1 Start x 2 Stage x 1500mm x \u00d8600mm + Scalper Drum",
+    "1 Start x 2 Stage x 1500mm x \u00d8600mm",
+    "1 Start x 1 Stage x 1500mm x \u00d8600mm + Scalper Drum",
+    "1 Start x 1 Stage x 1500mm x \u00d8600mm",
+    "1 Start x 1 Stage x 1500mm x \u00d8600mm (Scalper)",
+    "1 Start x 3 Stage x 1000mm x \u00d8600mm",
+    "1 Start x 2 Stage x 1000mm x \u00d8600mm + Scalper Drum",
+    "1 Start x 2 Stage x 1000mm x \u00d8600mm",
+    "1 Start x 1 Stage x 1000mm x \u00d8600mm + Scalper Drum",
+    "1 Start x 1 Stage x 1000mm x \u00d8600mm",
+    "1 Start x 1 Stage x 1000mm x \u00d8600mm (Scalper)"
+  ],
+  "RER": [
+    "1 Start x 3 Stage x 1000mm x \u00d8100mm",
+    "1 Start x 2 Stage x 1000mm x \u00d8100mm",
+    "1 Start x 3 Stage x 1500mm x \u00d8100mm",
+    "1 Start x 1 Stage x 1000mm x \u00d8100mm",
+    "1 Start x 1 Stage x 1500mm x \u00d8100mm",
+    "1 Start x 2 Stage x 1500mm x \u00d8100mm"
+  ],
+  "IRM": [
+    "2 Start x 2 Stage x 760mm x \u00d8133mm + Scalper Roll",
+    "2 Start x 2 Stage x 760mm x \u00d8133mm",
+    "2 Start x 2 Stage x 760mm x \u00d8133mm - Direct Drive",
+    "2 Start x 2 Stage x 1000mm x \u00d8160mm",
+    "2 Start x 2 Stage x 1000mm x \u00d8160mm - Direct Drive",
+    "2 Start x 2 Stage x 1000mm x \u00d8160mm + Scalper Roll"
+  ],
+  "WHIMS": [
+    "16 Pole x 120mm - Mags / Non-Mags",
+    "16 Pole x 120mm- Mags / Mids / Non-Mags",
+    "16 Pole x 200mm - Mags / Non-Mags",
+    "16 Pole x 200mm - Mags / Mids / Non-Mags",
+    "16 Pole x 68mm - Mags / Non-Mags",
+    "16 Pole x 68mm - Mags / Mids / Non-Mags"
+  ],
+  "RTF": [
+    "105 tph - Table Diameter 1600mm",
+    "12 tph - Table Diameter 1000mm",
+    "35 tph - Table Diameter 1200mm",
+    "50 tph - Table Diameter 1400mm"
+  ],
+  "UCC": [
+    "Square 1200mm x 1200mm",
+    "Square 900mm x 900mm",
+    "Square 1800mm x 1800mm",
+    "Square 600mm x 600mm",
+    "Retangular 1200mm x 2400mm"
+  ]
+}
