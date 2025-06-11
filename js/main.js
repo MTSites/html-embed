@@ -786,6 +786,7 @@ configSelect.addEventListener('change', function () {
         const pageWidth = doc.internal.pageSize.getWidth();
 
         const logoImg = new Image();
+        logoImg.crossOrigin = 'anonymous'; // ✅ IMPORTANT for GitHub Pages
         logoImg.src = 'images/processed/MTball_transparent.png'; // ✅ RELATIVE path only once!
 
         // 🟢 Don't add logo here — just preload image
