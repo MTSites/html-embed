@@ -1,7 +1,8 @@
-// Main JavaScript for BD Team Tender Enquiry Interface (Refactored Config Logic)
+// Main JavaScript for BD Team Tender Enquiry Interface 
 document.addEventListener('DOMContentLoaded', function () {
   const today = new Date().toISOString().split('T')[0];
   document.getElementById('dateInput').value = today;
+  document.getElementById('exportPdfBtn').addEventListener('click', exportToPDF);
 
   const modelTypeSelect = document.getElementById('modelTypeSelect');
   const configSelect = document.getElementById('configSelect');
@@ -20,7 +21,22 @@ document.addEventListener('DOMContentLoaded', function () {
     option.value = model;
     option.textContent = model;
     modelTypeSelect.appendChild(option);
-  });
+    });
+
+    function tryPopulateIfReady() {
+  const selectedModel = modelTypeSelect.value;
+  const selectedConfig = configSelect.value;
+
+  // Safely get only the enabled variant values
+  const v1 = variant1Select.disabled ? '' : variant1Select.value;
+  const v2 = variant2Select.disabled ? '' : variant2Select.value;
+  const v3 = variant3Select.disabled ? '' : variant3Select.value;
+  const v4 = variant4Select.disabled ? '' : variant4Select.value;
+
+  if (selectedModel && selectedConfig) {
+    populateModelDetails(selectedModel, selectedConfig, v1, v2, v3, v4);
+  }
+}
 
   // Centralized fallback configurations
   const DEFAULT_CONFIGS = {
@@ -199,59 +215,54 @@ function normalize(val) {
         option.textContent = cfg.label;
         configSelect.appendChild(option);
       });  
-
-      if (!hasVariants && uniqueConfigs.length > 0) {
-        populateModelDetails(selectedModel, uniqueConfigs[0].value);
-      }
     }
 });
 
     // Handle configuration selection
-    configSelect.addEventListener('change', function() {
-        const selectedModel = modelTypeSelect.value;
-        const selectedConfig = this.value;
-        
-        // Reset and disable variant dropdowns with custom labels
-        resetDropdown(variant1Select, variant1Label.textContent);
-        resetDropdown(variant2Select, variant2Label.textContent);
-        resetDropdown(variant3Select, variant3Label.textContent);
-        resetDropdown(variant4Select, variant4Label.textContent);
-        
-        // Clear auto-populated fields
-        document.getElementById('modelCodeInput').value = '';
-        document.getElementById('modelDescInput').value = '';
-        document.getElementById('controlPanelCodeInput').value = '';
-        document.getElementById('controlPanelDescInput').value = '';
-        
-        // Disable add item button
-        document.getElementById('addItemBtn').disabled = true;
-        
-        if (selectedConfig) {
-            // Enable variant1 dropdown if options exist
-            if (VARIANT_DATA.options.variant1[selectedModel] && VARIANT_DATA.options.variant1[selectedModel].length > 0) {
-                variant1Select.disabled = false;
-                
-                // Populate variant1 options
-                VARIANT_DATA.options.variant1[selectedModel].forEach(variant => {
-                    // Skip the first item which is the model name
-                    if (variant !== selectedModel) {
-                        const option = document.createElement('option');
-                        option.value = variant;
-                        option.textContent = variant;
-                        variant1Select.appendChild(option);
-                    }
-                });
-                
-                console.log(`Populated ${variant1Label.textContent} dropdown for ${selectedModel} with:`, 
-                    VARIANT_DATA.options.variant1[selectedModel].filter(v => v !== selectedModel));
-            }
-            
-            // If no variants, populate model details directly
-            if (!VARIANT_DATA.options.variant1[selectedModel] || VARIANT_DATA.options.variant1[selectedModel].length <= 1) {
-                populateModelDetails(selectedModel, selectedConfig);
-            }
-        }
-    });
+configSelect.addEventListener('change', function () {
+  const selectedModel = modelTypeSelect.value;
+  const selectedConfig = this.value;
+
+  // Reset and disable variant dropdowns with custom labels
+  resetDropdown(variant1Select, variant1Label.textContent);
+  resetDropdown(variant2Select, variant2Label.textContent);
+  resetDropdown(variant3Select, variant3Label.textContent);
+  resetDropdown(variant4Select, variant4Label.textContent);
+
+  // Clear auto-populated fields
+  document.getElementById('modelCodeInput').value = '';
+  document.getElementById('modelDescInput').value = '';
+  document.getElementById('controlPanelCodeInput').value = '';
+  document.getElementById('controlPanelDescInput').value = '';
+  document.getElementById('addItemBtn').disabled = true;
+
+  if (selectedConfig) {
+    // Enable and populate variant1 dropdown if options exist
+    const v1Options = VARIANT_DATA.options.variant1[selectedModel];
+    if (v1Options && v1Options.length > 0) {
+      variant1Select.disabled = false;
+
+      v1Options.forEach(variant => {
+        const option = document.createElement('option');
+        option.value = variant;
+        option.textContent = variant;
+        variant1Select.appendChild(option);
+      });
+
+      console.log(`Populated ${variant1Label.textContent} dropdown for ${selectedModel} with:`, v1Options);
+    }
+
+    // If there are no variant1 options or only one, trigger population directly
+    if (!v1Options || v1Options.length <= 1) {
+      const v1 = variant1Select.disabled ? '' : variant1Select.value;
+      const v2 = variant2Select.disabled ? '' : variant2Select.value;
+      const v3 = variant3Select.disabled ? '' : variant3Select.value;
+      const v4 = variant4Select.disabled ? '' : variant4Select.value;
+
+      populateModelDetails(selectedModel, selectedConfig, v1, v2, v3, v4);
+    }
+  }
+});
     
     // Handle variant1 selection
     variant1Select.addEventListener('change', function() {
@@ -709,11 +720,13 @@ function normalize(val) {
         resetDropdown(variant1Select);
         resetDropdown(variant2Select);
         resetDropdown(variant3Select);
+        resetDropdown(variant4Select);
         
         // Reset variant labels
         variant1Label.textContent = 'Variant 1';
         variant2Label.textContent = 'Variant 2';
         variant3Label.textContent = 'Variant 3';
+        variant4Label.textContent = 'Variant 4';
         
         // Clear auto-populated fields
         document.getElementById('modelCodeInput').value = '';
@@ -751,142 +764,132 @@ function normalize(val) {
         tableBody.appendChild(noItemsRow);
     }
     
-    // Helper function to export to PDF
-    function exportToPDF() {
-        // Check if there are items to export
+    // Helper function to PDF Export
+            function exportToPDF() {
         const tableBody = document.getElementById('itemsTableBody');
         const noItemsRow = document.getElementById('noItemsRow');
-        
-        if (noItemsRow) {
-            alert('No items to export. Please add items to the tender first.');
+        if (noItemsRow && noItemsRow.style.display !== 'none') {
+            alert('No items to export.');
             return;
         }
-        
-        // Get tender header information
+
         const customer = document.getElementById('customerInput').value;
         const site = document.getElementById('siteInput').value;
         const mtQuote = document.getElementById('mtQuoteInput').value;
         const requestedBy = document.getElementById('requestedByInput').value;
         const date = document.getElementById('dateInput').value;
-        
-        // Validate required fields
-        if (!customer || !site || !mtQuote || !requestedBy || !date) {
-            alert('Please fill in all required header fields before exporting.');
-            return;
-        }
-        
-        // Prompt for filename
-        const defaultFilename = `Tender_${customer}_${date.replace(/-/g, '')}.pdf`;
-        const filename = prompt('Enter filename for PDF export:', defaultFilename);
-        
-        if (!filename) return; // User cancelled
-        
-        try {
-            // Create PDF document
-            const doc = new jsPDF({
-                orientation: 'landscape',
-                unit: 'mm',
-                format: 'a4'
-            });
-            
-            // Import autoTable from the global scope
-            const autoTable = window.jspdf.autoTable;
-            
-            // Add logo
-            try {
-                const logoImg = new Image();
-                logoImg.src = 'images/processed/MTball_transparent.png';
-                doc.addImage(logoImg, 'PNG', 135, 10, 30, 15);
-            } catch (logoError) {
-                console.warn('Could not add logo to PDF:', logoError);
+        const comments = document.getElementById('commentsInput').value;
+
+        const filename = `Tender_${customer}_${date.replace(/-/g, '')}.pdf`;
+        const { jsPDF } = window.jspdf;
+        const doc = new jsPDF({ orientation: 'landscape', unit: 'mm', format: 'a4' });
+        const pageWidth = doc.internal.pageSize.getWidth();
+
+        const logoImg = new Image();
+        logoImg.src = 'images/processed/MTball_transparent.png'; // ✅ RELATIVE path only once!
+
+        // 🟢 Don't add logo here — just preload image
+        logoImg.onload = function () {
+            finalizePDF(); // Go to final layout once logo is ready
+        };
+
+        logoImg.onerror = function () {
+            console.warn('⚠️ Logo failed to load. Continuing without logo.');
+            finalizePDF(); // Proceed anyway
+        };
+
+        function finalizePDF() {
+            // ✅ 1. Draw header background
+            doc.setFillColor(45, 45, 45);
+            doc.rect(0, 5, pageWidth, 20, 'F');
+
+            // ✅ 2. Add logo ONCE here
+            if (logoImg.complete) {
+            doc.addImage(logoImg, 'PNG', 10, 8, 60, 15); // ✅ Position + size
             }
-            
-            // Add header
-            doc.setFontSize(20);
-            doc.text('Tender Enquiry', 150, 35, { align: 'center' });
-            
+
+            // ✅ 3. Add white title
+            doc.setTextColor(255, 255, 255);
+            doc.setFontSize(18);
+            doc.setFont(undefined, 'bold');
+            doc.text('Tender Enquiry', pageWidth / 2, 17, { align: 'center' });
+
+            // ✅ 4. Reset text color to black
+            doc.setTextColor(0, 0, 0);
             doc.setFontSize(12);
-            doc.text(`Customer: ${customer}`, 20, 50);
-            doc.text(`Site: ${site}`, 20, 58);
-            doc.text(`MT Quote: ${mtQuote}`, 20, 66);
-            doc.text(`Requested By: ${requestedBy}`, 150, 50);
-            doc.text(`Date: ${date}`, 150, 58);
-            
-            // Add items table
+            doc.setFont(undefined, 'normal');
+
+            // ✅ 5. Add header fields
+            doc.text(`Customer: ${customer}`, 20, 32);
+            doc.text(`Site: ${site}`, 20, 40);
+            doc.text(`MT Quote: ${mtQuote}`, 20, 48);
+            doc.text(`Requested By: ${requestedBy}`, 150, 32);
+            doc.text(`Date: ${date}`, 150, 40);
+
+            // ✅ 6. Build table data
             const tableData = [];
-            const tableColumns = [
-                { header: '#', dataKey: 'num' },
-                { header: 'Model Code', dataKey: 'modelCode' },
-                { header: 'Model Description', dataKey: 'modelDesc' },
-                { header: 'Control Panel Code', dataKey: 'cpCode' },
-                { header: 'Control Panel Description', dataKey: 'cpDesc' },
-                { header: 'Qty', dataKey: 'qty' }
-            ];
-            
-            // Get table data
             const rows = tableBody.rows;
             for (let i = 0; i < rows.length; i++) {
-                const cells = rows[i].cells;
-                tableData.push({
-                    num: cells[0].textContent,
-                    modelCode: cells[1].textContent,
-                    modelDesc: cells[2].textContent,
-                    cpCode: cells[3].textContent,
-                    cpDesc: cells[4].textContent,
-                    qty: cells[5].textContent
-                });
+            const cells = rows[i].cells;
+            tableData.push([
+                cells[0].textContent,
+                cells[1].textContent,
+                cells[2].textContent,
+                cells[3].textContent,
+                cells[4].textContent,
+                cells[5].textContent
+            ]);
             }
-            
-            // Add table to PDF using the global autoTable function
-            autoTable(doc, {
-                head: [tableColumns.map(col => col.header)],
-                body: tableData.map(item => tableColumns.map(col => item[col.dataKey])),
-                startY: 75,
-                styles: {
-                    fontSize: 10,
-                    cellPadding: 3
-                },
-                headStyles: {
-                    fillColor: [255, 90, 69],
-                    textColor: [255, 255, 255],
-                    fontStyle: 'bold'
-                },
-                columnStyles: {
-                    0: { cellWidth: 10 },
-                    1: { cellWidth: 30 },
-                    2: { cellWidth: 70 },
-                    3: { cellWidth: 30 },
-                    4: { cellWidth: 70 },
-                    5: { cellWidth: 15 }
-                }
+
+            // ✅ 7. Draw table
+            doc.autoTable({
+            head: [['#', 'Model Code', 'Model Description', 'Control Panel Code', 'Control Panel Description', 'Qty']],
+            body: tableData,
+            startY: 52,
+            styles: { fontSize: 10, cellPadding: 3 },
+            headStyles: { fillColor: [255, 90, 69], textColor: [255, 255, 255], fontStyle: 'bold' },
+            columnStyles: { 0: { cellWidth: 10 }, 5: { cellWidth: 15 } }
             });
-            
-            // Add comments section if there are any comments
-            const comments = document.getElementById('commentsInput').value;
+
+            // ✅ 8. Add comments if any
             if (comments) {
-                const finalY = doc.lastAutoTable.finalY || 120;
-                doc.setFontSize(12);
-                doc.text('Comments:', 20, finalY + 15);
-                doc.setFontSize(10);
-                
-                // Split comments into lines to avoid text going off the page
-                const textLines = doc.splitTextToSize(comments, 250);
-                doc.text(textLines, 20, finalY + 25);
+            const finalY = doc.lastAutoTable.finalY || 120;
+            doc.setFontSize(12);
+            doc.text('Comments:', 20, finalY + 15);
+            doc.setFontSize(10);
+            doc.text(doc.splitTextToSize(comments, 250), 20, finalY + 25);
             }
-            
-            // Add footer
+
+            // ✅ 9. Footer
             const pageCount = doc.internal.getNumberOfPages();
             for (let i = 1; i <= pageCount; i++) {
-                doc.setPage(i);
-                doc.setFontSize(8);
-                doc.text(`Generated on ${new Date().toLocaleString()} - Page ${i} of ${pageCount}`, 150, doc.internal.pageSize.height - 10, { align: 'center' });
+            doc.setPage(i);
+            doc.setFontSize(8);
+            doc.text(`Generated on ${new Date().toLocaleString()} - Page ${i} of ${pageCount}`, pageWidth / 2, doc.internal.pageSize.height - 10, { align: 'center' });
             }
-            
-            // Save PDF
+
+            // ✅ 10. Save
             doc.save(filename);
-        } catch (error) {
-            console.error('Error generating PDF:', error);
-            alert('Error generating PDF. Please check console for details.');
         }
+        }
+
+
+  function tryPopulateIfReady() {
+    const selectedModel = modelTypeSelect.value;
+    const selectedConfig = configSelect.value;
+    const v1 = variant1Select.disabled ? '' : variant1Select.value;
+    const v2 = variant2Select.disabled ? '' : variant2Select.value;
+    const v3 = variant3Select.disabled ? '' : variant3Select.value;
+    const v4 = variant4Select.disabled ? '' : variant4Select.value;
+
+    if (selectedModel && selectedConfig) {
+      populateModelDetails(selectedModel, selectedConfig, v1, v2, v3, v4);
     }
+  }
+
+  variant1Select.addEventListener('change', tryPopulateIfReady);
+  variant2Select.addEventListener('change', tryPopulateIfReady);
+  variant3Select.addEventListener('change', tryPopulateIfReady);
+  variant4Select.addEventListener('change', tryPopulateIfReady);
+
 });

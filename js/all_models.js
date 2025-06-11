@@ -1,7 +1,7 @@
 const ALL_MODELS = [
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -15,7 +15,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -29,7 +29,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -43,7 +43,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -57,7 +57,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -71,7 +71,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -85,7 +85,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -99,7 +99,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -113,7 +113,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -127,7 +127,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -141,7 +141,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -155,7 +155,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -169,7 +169,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -183,7 +183,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -197,7 +197,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -211,7 +211,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 2x5",
+    "config": "2 Start x 5 Stage ",
     "model_number": "ESP9002",
     "config_description": "2 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -225,7 +225,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -239,7 +239,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -253,7 +253,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -267,7 +267,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -281,7 +281,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -295,7 +295,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -309,7 +309,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -323,7 +323,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Negative (-)",
@@ -337,7 +337,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -351,7 +351,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -365,7 +365,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -379,7 +379,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -393,7 +393,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -407,7 +407,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -421,7 +421,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -435,7 +435,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "ESP",
-    "config": "ESP 1x5",
+    "config": "1 Start x 5 Stage ",
     "model_number": "ESP9005",
     "config_description": "1 Start x 5 Stage ",
     "variant1": "Positive (+)",
@@ -449,7 +449,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -463,7 +463,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -477,7 +477,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -491,7 +491,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -505,7 +505,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -519,7 +519,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -533,7 +533,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -547,7 +547,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -561,7 +561,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -575,7 +575,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -589,7 +589,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -603,7 +603,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -617,7 +617,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -631,7 +631,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -645,7 +645,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -659,7 +659,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -673,7 +673,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -687,7 +687,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -701,7 +701,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -715,7 +715,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -729,7 +729,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -743,7 +743,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -757,7 +757,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -771,7 +771,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -785,7 +785,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -799,7 +799,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -813,7 +813,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -827,7 +827,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -841,7 +841,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -855,7 +855,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -869,7 +869,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -883,7 +883,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x3",
+    "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -897,7 +897,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -911,7 +911,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -925,7 +925,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -939,7 +939,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -953,7 +953,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -967,7 +967,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -981,7 +981,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -995,7 +995,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1009,7 +1009,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1023,7 +1023,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1037,7 +1037,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1051,7 +1051,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1065,7 +1065,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1079,7 +1079,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1093,7 +1093,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1107,7 +1107,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1121,7 +1121,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1135,7 +1135,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1149,7 +1149,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1163,7 +1163,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1177,7 +1177,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1191,7 +1191,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1205,7 +1205,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1219,7 +1219,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1233,7 +1233,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1247,7 +1247,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1261,7 +1261,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1275,7 +1275,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1289,7 +1289,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1303,7 +1303,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1317,7 +1317,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1331,7 +1331,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 2x2",
+    "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1345,7 +1345,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1359,7 +1359,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1373,7 +1373,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1387,7 +1387,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1401,7 +1401,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1415,7 +1415,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1429,7 +1429,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1443,7 +1443,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1457,7 +1457,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1471,7 +1471,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1485,7 +1485,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1499,7 +1499,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1513,7 +1513,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1527,7 +1527,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1541,7 +1541,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1555,7 +1555,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1569,7 +1569,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1583,7 +1583,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1597,7 +1597,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1611,7 +1611,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1625,7 +1625,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1639,7 +1639,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1653,7 +1653,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1667,7 +1667,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1681,7 +1681,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1695,7 +1695,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1709,7 +1709,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1723,7 +1723,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1737,7 +1737,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1751,7 +1751,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1765,7 +1765,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1779,7 +1779,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x3",
+    "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -1793,7 +1793,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1807,7 +1807,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1821,7 +1821,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1835,7 +1835,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1849,7 +1849,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1863,7 +1863,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1877,7 +1877,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1891,7 +1891,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1905,7 +1905,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1919,7 +1919,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1933,7 +1933,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1947,7 +1947,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1961,7 +1961,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1975,7 +1975,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -1989,7 +1989,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -2003,7 +2003,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "Glass Composite",
@@ -2017,7 +2017,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2031,7 +2031,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2045,7 +2045,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2059,7 +2059,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2073,7 +2073,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2087,7 +2087,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2101,7 +2101,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2115,7 +2115,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2129,7 +2129,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2143,7 +2143,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2157,7 +2157,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2171,7 +2171,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2185,7 +2185,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2199,7 +2199,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2213,7 +2213,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2227,7 +2227,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR270 1x2",
+    "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "variant1": "GlassLess",
@@ -2241,7 +2241,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2255,7 +2255,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2269,7 +2269,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2283,7 +2283,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2297,7 +2297,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2311,7 +2311,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2325,7 +2325,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2339,7 +2339,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2353,7 +2353,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2367,7 +2367,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2381,7 +2381,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2395,7 +2395,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2409,7 +2409,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2423,7 +2423,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2437,7 +2437,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2451,7 +2451,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2465,7 +2465,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -2479,7 +2479,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -2493,7 +2493,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -2507,7 +2507,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -2521,7 +2521,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2535,7 +2535,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2549,7 +2549,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2563,7 +2563,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2577,7 +2577,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -2591,7 +2591,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -2605,7 +2605,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -2619,7 +2619,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -2633,7 +2633,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2647,7 +2647,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2661,7 +2661,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2675,7 +2675,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x3",
+    "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2689,7 +2689,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2703,7 +2703,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2717,7 +2717,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2731,7 +2731,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2745,7 +2745,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2759,7 +2759,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2773,7 +2773,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2787,7 +2787,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2801,7 +2801,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2815,7 +2815,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2829,7 +2829,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2843,7 +2843,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2857,7 +2857,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2871,7 +2871,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2885,7 +2885,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2899,7 +2899,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -2913,7 +2913,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2927,7 +2927,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2941,7 +2941,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2955,7 +2955,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2969,7 +2969,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2983,7 +2983,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -2997,7 +2997,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3011,7 +3011,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3025,7 +3025,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3039,7 +3039,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3053,7 +3053,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3067,7 +3067,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3081,7 +3081,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3095,7 +3095,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3109,7 +3109,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3123,7 +3123,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 1x2",
+    "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3137,7 +3137,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3151,7 +3151,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3165,7 +3165,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3179,7 +3179,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3193,7 +3193,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3207,7 +3207,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3221,7 +3221,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3235,7 +3235,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3249,7 +3249,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3263,7 +3263,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3277,7 +3277,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3291,7 +3291,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3305,7 +3305,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3319,7 +3319,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3333,7 +3333,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3347,7 +3347,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3361,7 +3361,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3375,7 +3375,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3389,7 +3389,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3403,7 +3403,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3417,7 +3417,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3431,7 +3431,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3445,7 +3445,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3459,7 +3459,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3473,7 +3473,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3487,7 +3487,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3501,7 +3501,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3515,7 +3515,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3529,7 +3529,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3543,7 +3543,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3557,7 +3557,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3571,7 +3571,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x3",
+    "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3585,7 +3585,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3599,7 +3599,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3613,7 +3613,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3627,7 +3627,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3641,7 +3641,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3655,7 +3655,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3669,7 +3669,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3683,7 +3683,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3697,7 +3697,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3711,7 +3711,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3725,7 +3725,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3739,7 +3739,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3753,7 +3753,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3767,7 +3767,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3781,7 +3781,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3795,7 +3795,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -3809,7 +3809,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3823,7 +3823,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3837,7 +3837,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3851,7 +3851,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3865,7 +3865,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3879,7 +3879,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3893,7 +3893,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3907,7 +3907,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3921,7 +3921,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3935,7 +3935,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -3949,7 +3949,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3963,7 +3963,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3977,7 +3977,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -3991,7 +3991,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -4005,7 +4005,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -4019,7 +4019,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 4x1",
+    "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Less",
@@ -4033,7 +4033,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4047,7 +4047,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4061,7 +4061,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4075,7 +4075,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4089,7 +4089,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4103,7 +4103,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4117,7 +4117,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4131,7 +4131,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4145,7 +4145,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4159,7 +4159,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4173,7 +4173,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4187,7 +4187,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4201,7 +4201,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4215,7 +4215,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4229,7 +4229,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4243,7 +4243,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "Glass Composite",
@@ -4257,7 +4257,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4271,7 +4271,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4285,7 +4285,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4299,7 +4299,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4313,7 +4313,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4327,7 +4327,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4341,7 +4341,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4355,7 +4355,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4369,7 +4369,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4383,7 +4383,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4397,7 +4397,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4411,7 +4411,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4425,7 +4425,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4439,7 +4439,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4453,7 +4453,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4467,7 +4467,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "HTR",
-    "config": "HTR400 2x2",
+    "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "variant1": "GlassLess",
@@ -4481,7 +4481,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4495,7 +4495,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4509,7 +4509,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4523,7 +4523,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4537,7 +4537,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4551,7 +4551,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4565,7 +4565,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4579,7 +4579,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4593,7 +4593,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4607,7 +4607,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4621,7 +4621,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4635,7 +4635,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4649,7 +4649,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4663,7 +4663,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4677,7 +4677,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4691,7 +4691,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4705,7 +4705,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4719,7 +4719,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4733,7 +4733,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4747,7 +4747,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4761,7 +4761,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4775,7 +4775,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4789,7 +4789,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4803,7 +4803,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4817,7 +4817,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4831,7 +4831,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4845,7 +4845,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4859,7 +4859,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4873,7 +4873,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4887,7 +4887,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4901,7 +4901,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4915,7 +4915,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4929,7 +4929,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4943,7 +4943,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -4957,7 +4957,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -4971,7 +4971,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -4985,7 +4985,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -4999,7 +4999,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -5013,7 +5013,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -5027,7 +5027,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -5041,7 +5041,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -5055,7 +5055,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -5069,7 +5069,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -5083,7 +5083,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -5097,7 +5097,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -5111,7 +5111,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -5125,7 +5125,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -5139,7 +5139,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -5153,7 +5153,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -5167,7 +5167,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -5181,7 +5181,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -5195,7 +5195,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -5209,7 +5209,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -5223,7 +5223,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -5237,7 +5237,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -5251,7 +5251,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -5265,7 +5265,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -5279,7 +5279,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -5293,7 +5293,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -5307,7 +5307,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -5321,7 +5321,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "MiDs",
@@ -5335,7 +5335,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Mags",
@@ -5349,7 +5349,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -5363,7 +5363,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -5377,7 +5377,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5391,7 +5391,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5405,7 +5405,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5419,7 +5419,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5433,7 +5433,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5447,7 +5447,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5461,7 +5461,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5475,7 +5475,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5489,7 +5489,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5503,7 +5503,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5517,7 +5517,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5531,7 +5531,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5545,7 +5545,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5559,7 +5559,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5573,7 +5573,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5587,7 +5587,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5601,7 +5601,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5615,7 +5615,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5629,7 +5629,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5643,7 +5643,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5657,7 +5657,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5671,7 +5671,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5685,7 +5685,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5699,7 +5699,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5713,7 +5713,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5727,7 +5727,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5741,7 +5741,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5755,7 +5755,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5769,7 +5769,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5783,7 +5783,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5797,7 +5797,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -5811,7 +5811,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -5825,7 +5825,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "variant1": "",
@@ -5839,7 +5839,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "variant1": "",
@@ -5853,7 +5853,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "variant1": "",
@@ -5867,7 +5867,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "variant1": "",
@@ -5881,7 +5881,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "variant1": "",
@@ -5895,7 +5895,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "variant1": "",
@@ -5909,7 +5909,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "variant1": "",
@@ -5923,7 +5923,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "variant1": "",
@@ -5937,7 +5937,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -5951,7 +5951,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -5965,7 +5965,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -5979,7 +5979,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -5993,7 +5993,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6007,7 +6007,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6021,7 +6021,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6035,7 +6035,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6049,7 +6049,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "variant1": "",
@@ -6063,7 +6063,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "variant1": "",
@@ -6077,7 +6077,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "variant1": "",
@@ -6091,7 +6091,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "variant1": "",
@@ -6105,7 +6105,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "variant1": "",
@@ -6119,7 +6119,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "variant1": "",
@@ -6133,7 +6133,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "variant1": "",
@@ -6147,7 +6147,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "variant1": "",
@@ -6161,7 +6161,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6175,7 +6175,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6189,7 +6189,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6203,7 +6203,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6217,7 +6217,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6231,7 +6231,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6245,7 +6245,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6259,7 +6259,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "variant1": "",
@@ -6273,7 +6273,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6287,7 +6287,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6301,7 +6301,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6315,7 +6315,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6329,7 +6329,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6343,7 +6343,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6357,7 +6357,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6371,7 +6371,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6385,7 +6385,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6399,7 +6399,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6413,7 +6413,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6427,7 +6427,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6441,7 +6441,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6455,7 +6455,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6469,7 +6469,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6483,7 +6483,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6497,7 +6497,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6511,7 +6511,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6525,7 +6525,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6539,7 +6539,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6553,7 +6553,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6567,7 +6567,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6581,7 +6581,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6595,7 +6595,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6609,7 +6609,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6623,7 +6623,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6637,7 +6637,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6651,7 +6651,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6665,7 +6665,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6679,7 +6679,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6693,7 +6693,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6707,7 +6707,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6721,7 +6721,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6735,7 +6735,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6749,7 +6749,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6763,7 +6763,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6777,7 +6777,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6791,7 +6791,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6805,7 +6805,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6819,7 +6819,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6833,7 +6833,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6847,7 +6847,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6861,7 +6861,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6875,7 +6875,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6889,7 +6889,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6903,7 +6903,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6917,7 +6917,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6931,7 +6931,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -6945,7 +6945,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -6959,7 +6959,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -6973,7 +6973,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -6987,7 +6987,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -7001,7 +7001,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -7015,7 +7015,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -7029,7 +7029,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7043,7 +7043,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -7057,7 +7057,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -7071,7 +7071,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -7085,7 +7085,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7099,7 +7099,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -7113,7 +7113,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "MiDs",
@@ -7127,7 +7127,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Mags",
@@ -7141,7 +7141,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7155,7 +7155,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -7169,7 +7169,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7183,7 +7183,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7197,7 +7197,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7211,7 +7211,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7225,7 +7225,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7239,7 +7239,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7253,7 +7253,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7267,7 +7267,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7281,7 +7281,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7295,7 +7295,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7309,7 +7309,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7323,7 +7323,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7337,7 +7337,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7351,7 +7351,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7365,7 +7365,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7379,7 +7379,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7393,7 +7393,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7407,7 +7407,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7421,7 +7421,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7435,7 +7435,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7449,7 +7449,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7463,7 +7463,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7477,7 +7477,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7491,7 +7491,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7505,7 +7505,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7519,7 +7519,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7533,7 +7533,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7547,7 +7547,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7561,7 +7561,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7575,7 +7575,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7589,7 +7589,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400",
+    "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -7603,7 +7603,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -7617,7 +7617,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "MiDs",
@@ -7631,7 +7631,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Mags",
@@ -7645,7 +7645,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7659,7 +7659,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -7673,7 +7673,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "MiDs",
@@ -7687,7 +7687,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Mags",
@@ -7701,7 +7701,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7715,7 +7715,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -7729,7 +7729,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "MiDs",
@@ -7743,7 +7743,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Mags",
@@ -7757,7 +7757,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7771,7 +7771,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -7785,7 +7785,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "MiDs",
@@ -7799,7 +7799,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Mags",
@@ -7813,7 +7813,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7827,7 +7827,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -7841,7 +7841,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "MiDs",
@@ -7855,7 +7855,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Mags",
@@ -7869,7 +7869,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7883,7 +7883,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -7897,7 +7897,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "MiDs",
@@ -7911,7 +7911,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Mags",
@@ -7925,7 +7925,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7939,7 +7939,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -7953,7 +7953,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "MiDs",
@@ -7967,7 +7967,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Mags",
@@ -7981,7 +7981,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -7995,7 +7995,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8009,7 +8009,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "MiDs",
@@ -8023,7 +8023,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Mags",
@@ -8037,7 +8037,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8051,7 +8051,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8065,7 +8065,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -8079,7 +8079,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8093,7 +8093,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -8107,7 +8107,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8121,7 +8121,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -8135,7 +8135,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8149,7 +8149,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -8163,7 +8163,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8177,7 +8177,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -8191,7 +8191,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8205,7 +8205,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -8219,7 +8219,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8233,7 +8233,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -8247,7 +8247,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8261,7 +8261,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -8275,7 +8275,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8289,7 +8289,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "MiDs",
@@ -8303,7 +8303,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Mags",
@@ -8317,7 +8317,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8331,7 +8331,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8345,7 +8345,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "MiDs",
@@ -8359,7 +8359,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Mags",
@@ -8373,7 +8373,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8387,7 +8387,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8401,7 +8401,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "MiDs",
@@ -8415,7 +8415,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Mags",
@@ -8429,7 +8429,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8443,7 +8443,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8457,7 +8457,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "MiDs",
@@ -8471,7 +8471,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Mags",
@@ -8485,7 +8485,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8499,7 +8499,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8513,7 +8513,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "MiDs",
@@ -8527,7 +8527,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Mags",
@@ -8541,7 +8541,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8555,7 +8555,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8569,7 +8569,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "MiDs",
@@ -8583,7 +8583,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Mags",
@@ -8597,7 +8597,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8611,7 +8611,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8625,7 +8625,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "MiDs",
@@ -8639,7 +8639,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Mags",
@@ -8653,7 +8653,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8667,7 +8667,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8681,7 +8681,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "MiDs",
@@ -8695,7 +8695,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Mags",
@@ -8709,7 +8709,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -8723,7 +8723,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -8737,7 +8737,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Non-Mags",
@@ -8751,7 +8751,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8765,7 +8765,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Non-Mags",
@@ -8779,7 +8779,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8793,7 +8793,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Non-Mags",
@@ -8807,7 +8807,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8821,7 +8821,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Non-Mags",
@@ -8835,7 +8835,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8849,7 +8849,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Non-Mags",
@@ -8863,7 +8863,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8877,7 +8877,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Non-Mags",
@@ -8891,7 +8891,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8905,7 +8905,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Non-Mags",
@@ -8919,7 +8919,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8933,7 +8933,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "variant1": "Non-Mags",
@@ -8947,7 +8947,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -8961,7 +8961,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "variant1": "",
@@ -8975,7 +8975,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "variant1": "",
@@ -8989,7 +8989,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "variant1": "",
@@ -9003,7 +9003,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "variant1": "",
@@ -9017,7 +9017,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "variant1": "",
@@ -9031,7 +9031,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "variant1": "",
@@ -9045,7 +9045,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "variant1": "",
@@ -9059,7 +9059,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "variant1": "",
@@ -9073,7 +9073,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -9087,7 +9087,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -9101,7 +9101,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -9115,7 +9115,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -9129,7 +9129,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -9143,7 +9143,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -9157,7 +9157,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -9171,7 +9171,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -9185,7 +9185,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "MiDs",
@@ -9199,7 +9199,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Mags",
@@ -9213,7 +9213,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9227,7 +9227,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9241,7 +9241,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "MiDs",
@@ -9255,7 +9255,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Mags",
@@ -9269,7 +9269,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9283,7 +9283,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9297,7 +9297,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "MiDs",
@@ -9311,7 +9311,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Mags",
@@ -9325,7 +9325,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9339,7 +9339,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9353,7 +9353,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "MiDs",
@@ -9367,7 +9367,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Mags",
@@ -9381,7 +9381,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9395,7 +9395,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9409,7 +9409,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "MiDs",
@@ -9423,7 +9423,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Mags",
@@ -9437,7 +9437,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9451,7 +9451,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9465,7 +9465,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "MiDs",
@@ -9479,7 +9479,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Mags",
@@ -9493,7 +9493,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9507,7 +9507,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9521,7 +9521,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "MiDs",
@@ -9535,7 +9535,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Mags",
@@ -9549,7 +9549,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9563,7 +9563,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9577,7 +9577,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "MiDs",
@@ -9591,7 +9591,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Mags",
@@ -9605,7 +9605,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9619,7 +9619,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9633,7 +9633,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Non-Mags",
@@ -9647,7 +9647,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -9661,7 +9661,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Non-Mags",
@@ -9675,7 +9675,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -9689,7 +9689,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Non-Mags",
@@ -9703,7 +9703,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -9717,7 +9717,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Non-Mags",
@@ -9731,7 +9731,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -9745,7 +9745,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Non-Mags",
@@ -9759,7 +9759,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -9773,7 +9773,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Non-Mags",
@@ -9787,7 +9787,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -9801,7 +9801,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Non-Mags",
@@ -9815,7 +9815,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -9829,7 +9829,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "variant1": "Non-Mags",
@@ -9843,7 +9843,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -9857,7 +9857,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "MiDs",
@@ -9871,7 +9871,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Mags",
@@ -9885,7 +9885,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9899,7 +9899,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9913,7 +9913,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "MiDs",
@@ -9927,7 +9927,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Mags",
@@ -9941,7 +9941,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -9955,7 +9955,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -9969,7 +9969,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "MiDs",
@@ -9983,7 +9983,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Mags",
@@ -9997,7 +9997,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10011,7 +10011,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -10025,7 +10025,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "MiDs",
@@ -10039,7 +10039,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Mags",
@@ -10053,7 +10053,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10067,7 +10067,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -10081,7 +10081,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "MiDs",
@@ -10095,7 +10095,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Mags",
@@ -10109,7 +10109,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10123,7 +10123,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -10137,7 +10137,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "MiDs",
@@ -10151,7 +10151,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Mags",
@@ -10165,7 +10165,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10179,7 +10179,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -10193,7 +10193,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "MiDs",
@@ -10207,7 +10207,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Mags",
@@ -10221,7 +10221,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10235,7 +10235,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -10249,7 +10249,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "MiDs",
@@ -10263,7 +10263,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Mags",
@@ -10277,7 +10277,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10291,7 +10291,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Mags",
@@ -10305,7 +10305,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -10319,7 +10319,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -10333,7 +10333,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -10347,7 +10347,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -10361,7 +10361,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -10375,7 +10375,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -10389,7 +10389,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -10403,7 +10403,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -10417,7 +10417,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -10431,7 +10431,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -10445,7 +10445,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -10459,7 +10459,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -10473,7 +10473,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -10487,7 +10487,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -10501,7 +10501,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "variant1": "Non-Mags",
@@ -10515,7 +10515,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -10529,7 +10529,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "variant1": "",
@@ -10543,7 +10543,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "variant1": "",
@@ -10557,7 +10557,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "variant1": "",
@@ -10571,7 +10571,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "variant1": "",
@@ -10585,7 +10585,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "variant1": "",
@@ -10599,7 +10599,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "variant1": "",
@@ -10613,7 +10613,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "variant1": "",
@@ -10627,7 +10627,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "variant1": "",
@@ -10641,7 +10641,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -10655,7 +10655,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -10669,7 +10669,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -10683,7 +10683,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -10697,7 +10697,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -10711,7 +10711,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -10725,7 +10725,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -10739,7 +10739,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1000xØ600 (Scalper)",
+    "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "variant1": "",
@@ -10753,7 +10753,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -10767,7 +10767,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -10781,7 +10781,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10795,7 +10795,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -10809,7 +10809,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -10823,7 +10823,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -10837,7 +10837,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10851,7 +10851,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -10865,7 +10865,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -10879,7 +10879,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -10893,7 +10893,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10907,7 +10907,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -10921,7 +10921,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -10935,7 +10935,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -10949,7 +10949,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -10963,7 +10963,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -10977,7 +10977,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -10991,7 +10991,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11005,7 +11005,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11019,7 +11019,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11033,7 +11033,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11047,7 +11047,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11061,7 +11061,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11075,7 +11075,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11089,7 +11089,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11103,7 +11103,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11117,7 +11117,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11131,7 +11131,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11145,7 +11145,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11159,7 +11159,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11173,7 +11173,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11187,7 +11187,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11201,7 +11201,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11215,7 +11215,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11229,7 +11229,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11243,7 +11243,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11257,7 +11257,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11271,7 +11271,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11285,7 +11285,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11299,7 +11299,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11313,7 +11313,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11327,7 +11327,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11341,7 +11341,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11355,7 +11355,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11369,7 +11369,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11383,7 +11383,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11397,7 +11397,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11411,7 +11411,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11425,7 +11425,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11439,7 +11439,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11453,7 +11453,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11467,7 +11467,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11481,7 +11481,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11495,7 +11495,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11509,7 +11509,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11523,7 +11523,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11537,7 +11537,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11551,7 +11551,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11565,7 +11565,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11579,7 +11579,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11593,7 +11593,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "MiDs",
@@ -11607,7 +11607,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Mags",
@@ -11621,7 +11621,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -11635,7 +11635,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -11649,7 +11649,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11663,7 +11663,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11677,7 +11677,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11691,7 +11691,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11705,7 +11705,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11719,7 +11719,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11733,7 +11733,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11747,7 +11747,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11761,7 +11761,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11775,7 +11775,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11789,7 +11789,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11803,7 +11803,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11817,7 +11817,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11831,7 +11831,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11845,7 +11845,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11859,7 +11859,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11873,7 +11873,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11887,7 +11887,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11901,7 +11901,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11915,7 +11915,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11929,7 +11929,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11943,7 +11943,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11957,7 +11957,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11971,7 +11971,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -11985,7 +11985,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -11999,7 +11999,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -12013,7 +12013,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -12027,7 +12027,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -12041,7 +12041,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -12055,7 +12055,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -12069,7 +12069,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "variant1": "Non-Mags",
@@ -12083,7 +12083,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -12097,7 +12097,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12111,7 +12111,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12125,7 +12125,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12139,7 +12139,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12153,7 +12153,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12167,7 +12167,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12181,7 +12181,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12195,7 +12195,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12209,7 +12209,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12223,7 +12223,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12237,7 +12237,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12251,7 +12251,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12265,7 +12265,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12279,7 +12279,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12293,7 +12293,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12307,7 +12307,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12321,7 +12321,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12335,7 +12335,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12349,7 +12349,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12363,7 +12363,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12377,7 +12377,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12391,7 +12391,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12405,7 +12405,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12419,7 +12419,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12433,7 +12433,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12447,7 +12447,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12461,7 +12461,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12475,7 +12475,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12489,7 +12489,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12503,7 +12503,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12517,7 +12517,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12531,7 +12531,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12545,7 +12545,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12559,7 +12559,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12573,7 +12573,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12587,7 +12587,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12601,7 +12601,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12615,7 +12615,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12629,7 +12629,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12643,7 +12643,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12657,7 +12657,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12671,7 +12671,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12685,7 +12685,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12699,7 +12699,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12713,7 +12713,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12727,7 +12727,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12741,7 +12741,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12755,7 +12755,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12769,7 +12769,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12783,7 +12783,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12797,7 +12797,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12811,7 +12811,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12825,7 +12825,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12839,7 +12839,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12853,7 +12853,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12867,7 +12867,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12881,7 +12881,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12895,7 +12895,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12909,7 +12909,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12923,7 +12923,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12937,7 +12937,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "MiDs",
@@ -12951,7 +12951,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Mags",
@@ -12965,7 +12965,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "MiDs",
@@ -12979,7 +12979,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Mags",
@@ -12993,7 +12993,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13007,7 +13007,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13021,7 +13021,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13035,7 +13035,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13049,7 +13049,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13063,7 +13063,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13077,7 +13077,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13091,7 +13091,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13105,7 +13105,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13119,7 +13119,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13133,7 +13133,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13147,7 +13147,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13161,7 +13161,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13175,7 +13175,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13189,7 +13189,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13203,7 +13203,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13217,7 +13217,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13231,7 +13231,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13245,7 +13245,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13259,7 +13259,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13273,7 +13273,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13287,7 +13287,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13301,7 +13301,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13315,7 +13315,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13329,7 +13329,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13343,7 +13343,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13357,7 +13357,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13371,7 +13371,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13385,7 +13385,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13399,7 +13399,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13413,7 +13413,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400",
+    "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "variant1": "Non-Mags",
@@ -13427,7 +13427,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RED",
-    "config": "RED 1500xØ400 + Scalper Drum",
+    "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "variant1": "Non-Mags",
@@ -13441,7 +13441,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13455,7 +13455,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13469,7 +13469,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13483,7 +13483,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13497,7 +13497,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13511,7 +13511,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13525,7 +13525,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13539,7 +13539,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13553,7 +13553,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13567,7 +13567,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13581,7 +13581,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13595,7 +13595,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13609,7 +13609,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13623,7 +13623,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13637,7 +13637,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13651,7 +13651,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13665,7 +13665,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -13679,7 +13679,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -13693,7 +13693,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -13707,7 +13707,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -13721,7 +13721,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -13735,7 +13735,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -13749,7 +13749,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -13763,7 +13763,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1000",
+    "config": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9001",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -13777,7 +13777,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13791,7 +13791,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13805,7 +13805,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13819,7 +13819,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13833,7 +13833,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13847,7 +13847,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13861,7 +13861,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13875,7 +13875,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -13889,7 +13889,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13903,7 +13903,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13917,7 +13917,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13931,7 +13931,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13945,7 +13945,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13959,7 +13959,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13973,7 +13973,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -13987,7 +13987,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14001,7 +14001,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14015,7 +14015,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14029,7 +14029,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14043,7 +14043,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14057,7 +14057,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14071,7 +14071,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14085,7 +14085,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14099,7 +14099,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1000",
+    "config": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9004",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14113,7 +14113,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14127,7 +14127,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14141,7 +14141,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14155,7 +14155,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14169,7 +14169,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14183,7 +14183,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14197,7 +14197,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14211,7 +14211,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14225,7 +14225,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14239,7 +14239,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14253,7 +14253,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14267,7 +14267,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14281,7 +14281,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14295,7 +14295,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14309,7 +14309,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14323,7 +14323,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14337,7 +14337,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14351,7 +14351,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14365,7 +14365,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14379,7 +14379,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14393,7 +14393,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14407,7 +14407,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14421,7 +14421,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14435,7 +14435,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x3x1500",
+    "config": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9007",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14449,7 +14449,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -14463,7 +14463,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -14477,7 +14477,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -14491,7 +14491,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -14505,7 +14505,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -14519,7 +14519,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -14533,7 +14533,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -14547,7 +14547,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "3x1",
@@ -14561,7 +14561,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14575,7 +14575,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14589,7 +14589,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14603,7 +14603,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14617,7 +14617,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14631,7 +14631,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14645,7 +14645,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14659,7 +14659,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "4x2",
@@ -14673,7 +14673,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14687,7 +14687,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14701,7 +14701,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14715,7 +14715,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14729,7 +14729,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14743,7 +14743,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14757,7 +14757,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14771,7 +14771,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1000",
+    "config": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "model_number": "REM9009",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -14785,7 +14785,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14799,7 +14799,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14813,7 +14813,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14827,7 +14827,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14841,7 +14841,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14855,7 +14855,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14869,7 +14869,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14883,7 +14883,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -14897,7 +14897,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14911,7 +14911,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14925,7 +14925,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14939,7 +14939,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14953,7 +14953,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14967,7 +14967,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14981,7 +14981,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -14995,7 +14995,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15009,7 +15009,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15023,7 +15023,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15037,7 +15037,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15051,7 +15051,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15065,7 +15065,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15079,7 +15079,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15093,7 +15093,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15107,7 +15107,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x1x1500",
+    "config": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9010",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15121,7 +15121,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -15135,7 +15135,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -15149,7 +15149,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -15163,7 +15163,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -15177,7 +15177,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -15191,7 +15191,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -15205,7 +15205,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -15219,7 +15219,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "3x1",
@@ -15233,7 +15233,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15247,7 +15247,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15261,7 +15261,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15275,7 +15275,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15289,7 +15289,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15303,7 +15303,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15317,7 +15317,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15331,7 +15331,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "4x2",
@@ -15345,7 +15345,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15359,7 +15359,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15373,7 +15373,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15387,7 +15387,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15401,7 +15401,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15415,7 +15415,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15429,7 +15429,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15443,7 +15443,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "RER",
-    "config": "RER 1x2x1500",
+    "config": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "model_number": "REM9011",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø100mm ",
     "variant1": "6x1.5",
@@ -15457,7 +15457,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "model_number": "RR9001",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -15471,7 +15471,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "model_number": "RR9001",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -15485,7 +15485,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "model_number": "RR9001",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -15499,7 +15499,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "model_number": "RR9001",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -15513,7 +15513,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "model_number": "RR9001",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -15527,7 +15527,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "model_number": "RR9001",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -15541,7 +15541,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "model_number": "RR9001",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -15555,7 +15555,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "model_number": "RR9001",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -15569,7 +15569,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "model_number": "RR9011",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "variant1": "Non-Mags",
@@ -15583,7 +15583,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "model_number": "RR9011",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "variant1": "Non-Mags",
@@ -15597,7 +15597,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "model_number": "RR9011",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "variant1": "Non-Mags",
@@ -15611,7 +15611,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "model_number": "RR9011",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "variant1": "Non-Mags",
@@ -15625,7 +15625,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "model_number": "RR9011",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "variant1": "Non-Mags",
@@ -15639,7 +15639,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "model_number": "RR9011",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "variant1": "Non-Mags",
@@ -15653,7 +15653,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "model_number": "RR9011",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "variant1": "Non-Mags",
@@ -15667,7 +15667,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "model_number": "RR9011",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm ",
     "variant1": "Non-Mags",
@@ -15681,7 +15681,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 - Direct Drive",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "model_number": "RR9014",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15695,7 +15695,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 - Direct Drive",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "model_number": "RR9014",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15709,7 +15709,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 - Direct Drive",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "model_number": "RR9014",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15723,7 +15723,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 - Direct Drive",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "model_number": "RR9014",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15737,7 +15737,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 - Direct Drive",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "model_number": "RR9014",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15751,7 +15751,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 - Direct Drive",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "model_number": "RR9014",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15765,7 +15765,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 - Direct Drive",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "model_number": "RR9014",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15779,7 +15779,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 760x133 - Direct Drive",
+    "config": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "model_number": "RR9014",
     "config_description": "2 Start x 2 Stage x 760mm x Ø133mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15793,7 +15793,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "model_number": "RR9101",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "variant1": "Non-Mags",
@@ -15807,7 +15807,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "model_number": "RR9101",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "variant1": "Non-Mags",
@@ -15821,7 +15821,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "model_number": "RR9101",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "variant1": "Non-Mags",
@@ -15835,7 +15835,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "model_number": "RR9101",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "variant1": "Non-Mags",
@@ -15849,7 +15849,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "model_number": "RR9101",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "variant1": "Non-Mags",
@@ -15863,7 +15863,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "model_number": "RR9101",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "variant1": "Non-Mags",
@@ -15877,7 +15877,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "model_number": "RR9101",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "variant1": "Non-Mags",
@@ -15891,7 +15891,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "model_number": "RR9101",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm ",
     "variant1": "Non-Mags",
@@ -15905,7 +15905,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 - Direct Drive",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "model_number": "RR9102",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15919,7 +15919,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 - Direct Drive",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "model_number": "RR9102",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15933,7 +15933,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 - Direct Drive",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "model_number": "RR9102",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15947,7 +15947,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 - Direct Drive",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "model_number": "RR9102",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15961,7 +15961,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 - Direct Drive",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "model_number": "RR9102",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15975,7 +15975,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 - Direct Drive",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "model_number": "RR9102",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -15989,7 +15989,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 - Direct Drive",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "model_number": "RR9102",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -16003,7 +16003,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 - Direct Drive",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "model_number": "RR9102",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm - Direct Drive",
     "variant1": "Non-Mags",
@@ -16017,7 +16017,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "model_number": "RR9111",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -16031,7 +16031,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "model_number": "RR9111",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -16045,7 +16045,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "model_number": "RR9111",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -16059,7 +16059,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "model_number": "RR9111",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -16073,7 +16073,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "model_number": "RR9111",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -16087,7 +16087,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "model_number": "RR9111",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -16101,7 +16101,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "model_number": "RR9111",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -16115,7 +16115,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "IRM",
-    "config": "IRM 1000x160 + Scalper Roll",
+    "config": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "model_number": "RR9111",
     "config_description": "2 Start x 2 Stage x 1000mm x Ø160mm + Scalper Roll",
     "variant1": "Non-Mags",
@@ -16129,7 +16129,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16143,7 +16143,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16157,7 +16157,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16171,7 +16171,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16185,7 +16185,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16199,7 +16199,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16213,7 +16213,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16227,7 +16227,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16241,7 +16241,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16255,7 +16255,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16269,7 +16269,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16283,7 +16283,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16297,7 +16297,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16311,7 +16311,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16325,7 +16325,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16339,7 +16339,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x2P",
+    "config": "16 Pole x 120mm - Mags / Non-Mags",
     "model_number": "RW9001",
     "config_description": "16 Pole x 120mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16353,231 +16353,231 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9002-AC-400/50",
     "control_panel_code": "RW9038-AC-400/50",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 400V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 400V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9002-AC-400/60",
     "control_panel_code": "RW9038-AC-400/60",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 400V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 400V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9002-AC-480/50",
     "control_panel_code": "RW9038-AC-480/50",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9002-AC-480/60",
     "control_panel_code": "RW9038-AC-480/60",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9002-AC-525/50",
     "control_panel_code": "RW9038-AC-525/50",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9002-AC-525/60",
     "control_panel_code": "RW9038-AC-525/60",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "Other",
     "variant4": "50Hz",
     "model_code": "RW9002-AC-O/50",
     "control_panel_code": "RW9038-AC-O/50",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "Other",
     "variant4": "60Hz",
     "model_code": "RW9002-AC-O/60",
     "control_panel_code": "RW9038-AC-O/60",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9002-WC-400/50",
     "control_panel_code": "RW9038-WC-400/50",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9002-WC-400/60",
     "control_panel_code": "RW9038-WC-400/60",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9002-WC-480/50",
     "control_panel_code": "RW9038-WC-480/50",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9002-WC-480/60",
     "control_panel_code": "RW9038-WC-480/60",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9002-WC-525/50",
     "control_panel_code": "RW9038-WC-525/50",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9002-WC-525/60",
     "control_panel_code": "RW9038-WC-525/60",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "Other",
     "variant4": "50Hz",
     "model_code": "RW9002-WC-O/50",
     "control_panel_code": "RW9038-WC-O/50",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px120x3P",
+    "config": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "model_number": "RW9002",
-    "config_description": "16 Pole x 120mm- Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 120mm- Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "Other",
     "variant4": "60Hz",
     "model_code": "RW9002-WC-O/60",
     "control_panel_code": "RW9038-WC-O/60",
-    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 120mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16591,7 +16591,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16605,7 +16605,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16619,7 +16619,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16633,7 +16633,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16647,7 +16647,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16661,7 +16661,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16675,7 +16675,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -16689,7 +16689,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16703,7 +16703,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16717,7 +16717,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16731,7 +16731,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16745,7 +16745,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16759,7 +16759,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16773,7 +16773,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16787,7 +16787,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x2P",
+    "config": "16 Pole x 200mm - Mags / Non-Mags",
     "model_number": "RW9003",
     "config_description": "16 Pole x 200mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -16801,231 +16801,231 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9004-AC-400/50",
     "control_panel_code": "RW9038-AC-400/50",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 400V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 400V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9004-AC-400/60",
     "control_panel_code": "RW9038-AC-400/60",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 400V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 400V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9004-AC-480/50",
     "control_panel_code": "RW9038-AC-480/50",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9004-AC-480/60",
     "control_panel_code": "RW9038-AC-480/60",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9004-AC-525/50",
     "control_panel_code": "RW9038-AC-525/50",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9004-AC-525/60",
     "control_panel_code": "RW9038-AC-525/60",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "Other",
     "variant4": "50Hz",
     "model_code": "RW9004-AC-O/50",
     "control_panel_code": "RW9038-AC-O/50",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "Other",
     "variant4": "60Hz",
     "model_code": "RW9004-AC-O/60",
     "control_panel_code": "RW9038-AC-O/60",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9004-WC-400/50",
     "control_panel_code": "RW9038-WC-400/50",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9004-WC-400/60",
     "control_panel_code": "RW9038-WC-400/60",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9004-WC-480/50",
     "control_panel_code": "RW9038-WC-480/50",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9004-WC-480/60",
     "control_panel_code": "RW9038-WC-480/60",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9004-WC-525/50",
     "control_panel_code": "RW9038-WC-525/50",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9004-WC-525/60",
     "control_panel_code": "RW9038-WC-525/60",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "Other",
     "variant4": "50Hz",
     "model_code": "RW9004-WC-O/50",
     "control_panel_code": "RW9038-WC-O/50",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px200x3P",
+    "config": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9004",
-    "config_description": "16 Pole x 200mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 200mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "Other",
     "variant4": "60Hz",
     "model_code": "RW9004-WC-O/60",
     "control_panel_code": "RW9038-WC-O/60",
-    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 200mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -17039,7 +17039,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -17053,7 +17053,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -17067,7 +17067,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -17081,7 +17081,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -17095,7 +17095,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -17109,7 +17109,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -17123,7 +17123,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Air Cooled ",
@@ -17137,7 +17137,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -17151,7 +17151,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -17165,7 +17165,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -17179,7 +17179,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -17193,7 +17193,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -17207,7 +17207,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -17221,7 +17221,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -17235,7 +17235,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x2P",
+    "config": "16 Pole x 68mm - Mags / Non-Mags",
     "model_number": "RW9011",
     "config_description": "16 Pole x 68mm - Mags / Non-Mags",
     "variant1": "Water Cooled",
@@ -17249,226 +17249,226 @@ const ALL_MODELS = [
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9012-AC-400/50",
     "control_panel_code": "RW9038-AC-400/50",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046  \r\nPower Supply: 400V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046  \r\nPower Supply: 400V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9012-AC-400/60",
     "control_panel_code": "RW9038-AC-400/60",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046  \r\nPower Supply: 400V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046  \r\nPower Supply: 400V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9012-AC-480/50",
     "control_panel_code": "RW9038-AC-480/50",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9012-AC-480/60",
     "control_panel_code": "RW9038-AC-480/60",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 480V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9012-AC-525/50",
     "control_panel_code": "RW9038-AC-525/50",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9012-AC-525/60",
     "control_panel_code": "RW9038-AC-525/60",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: 525V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "Other",
     "variant4": "50Hz",
     "model_code": "RW9012-AC-O/50",
     "control_panel_code": "RW9038-AC-O/50",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Air Cooled ",
     "variant2": "",
     "variant3": "Other",
     "variant4": "60Hz",
     "model_code": "RW9012-AC-O/60",
     "control_panel_code": "RW9038-AC-O/60",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Air Blast Unit: RW9045 & RW9046 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9012-WC-400/50",
     "control_panel_code": "RW9038-WC-400/50",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "400V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9012-WC-400/60",
     "control_panel_code": "RW9038-WC-400/60",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 400V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9012-WC-480/50",
     "control_panel_code": "RW9038-WC-480/50",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9012-WC-480/60",
     "control_panel_code": "RW9038-WC-480/60",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 480V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "50Hz",
     "model_code": "RW9012-WC-525/50",
     "control_panel_code": "RW9038-WC-525/50",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 50Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 50Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "525V / 3P",
     "variant4": "60Hz",
     "model_code": "RW9012-WC-525/60",
     "control_panel_code": "RW9038-WC-525/60",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 60Hz",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: 525V / 3P / 60Hz",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "Other",
     "variant4": "50Hz",
     "model_code": "RW9012-WC-O/50",
     "control_panel_code": "RW9038-WC-O/50",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
     "model_type": "WHIMS",
-    "config": "WHIMS 16Px68x3P",
+    "config": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "model_number": "RW9012",
-    "config_description": "16 Pole x 68mm - Mags / MiDs / Non-Mags ",
+    "config_description": "16 Pole x 68mm - Mags / Mids / Non-Mags ",
     "variant1": "Water Cooled",
     "variant2": "",
     "variant3": "Other",
     "variant4": "60Hz",
     "model_code": "RW9012-WC-O/60",
     "control_panel_code": "RW9038-WC-O/60",
-    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / MiDs\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
+    "model_description": "WHIMS 16 Pole 68mm x 2.5mm Separator \r\nProducts: Mags / Non-Mags / Mids\r\nHeat Exchanger Oil & Water Unit: RW9042 \r\nPower Supply: Other",
     "control_panel_description": "Control Panel  to suit WHIMS 16 Pole\r\nAllen Bradley PLC\r\nPower Supply: Other"
   },
   {
@@ -17921,7 +17921,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "UCC",
-    "config": "UCC 1200x1200",
+    "config": "Square 1200mm x 1200mm",
     "model_number": "UCC9007",
     "config_description": "Square 1200mm x 1200mm",
     "variant1": "",
@@ -17935,7 +17935,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "UCC",
-    "config": "UCC 900x900",
+    "config": "Square 900mm x 900mm",
     "model_number": "UCC9008",
     "config_description": "Square 900mm x 900mm",
     "variant1": "",
@@ -17949,7 +17949,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "UCC",
-    "config": "UCC 1800x1800",
+    "config": "Square 1800mm x 1800mm",
     "model_number": "UCC9011",
     "config_description": "Square 1800mm x 1800mm",
     "variant1": "",
@@ -17963,7 +17963,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "UCC",
-    "config": "UCC 600x600",
+    "config": "Square 600mm x 600mm",
     "model_number": "UCC9012",
     "config_description": "Square 600mm x 600mm",
     "variant1": "",
@@ -17977,7 +17977,7 @@ const ALL_MODELS = [
   },
   {
     "model_type": "UCC",
-    "config": "UCC 1200x2400",
+    "config": "Retangular 1200mm x 2400mm",
     "model_number": "UCC9015",
     "config_description": "Retangular 1200mm x 2400mm",
     "variant1": "",
