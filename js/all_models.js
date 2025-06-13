@@ -448,7 +448,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit ESP 1x5x1800mm \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -462,7 +462,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -476,7 +476,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -490,7 +490,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -504,7 +504,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -518,7 +518,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -532,7 +532,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -546,7 +546,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -560,7 +560,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -574,7 +574,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -588,7 +588,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -602,7 +602,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -616,7 +616,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -630,7 +630,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -644,7 +644,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -658,7 +658,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -672,7 +672,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -686,7 +686,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -700,7 +700,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -714,7 +714,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -728,7 +728,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -742,7 +742,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -756,7 +756,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -770,7 +770,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -784,7 +784,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -798,7 +798,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -812,7 +812,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -826,7 +826,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -840,7 +840,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -854,7 +854,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -868,7 +868,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -882,7 +882,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9000",
     "config_description": "2 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -896,7 +896,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -910,7 +910,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -924,7 +924,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -938,7 +938,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -952,7 +952,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -966,7 +966,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -980,7 +980,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -994,7 +994,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1008,7 +1008,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1022,7 +1022,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1036,7 +1036,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1050,7 +1050,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1064,7 +1064,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1078,7 +1078,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1092,7 +1092,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1106,7 +1106,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1120,7 +1120,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1134,7 +1134,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1148,7 +1148,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1162,7 +1162,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1176,7 +1176,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1190,7 +1190,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1204,7 +1204,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1218,7 +1218,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1232,7 +1232,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1246,7 +1246,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1260,7 +1260,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1274,7 +1274,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1288,7 +1288,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1302,7 +1302,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1316,7 +1316,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1330,7 +1330,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "2 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9001",
     "config_description": "2 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1344,7 +1344,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 2x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1358,7 +1358,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1372,7 +1372,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1386,7 +1386,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1400,7 +1400,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1414,7 +1414,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1428,7 +1428,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1442,7 +1442,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1456,7 +1456,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1470,7 +1470,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1484,7 +1484,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1498,7 +1498,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1512,7 +1512,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1526,7 +1526,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1540,7 +1540,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1554,7 +1554,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1568,7 +1568,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1582,7 +1582,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1596,7 +1596,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1610,7 +1610,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1624,7 +1624,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1638,7 +1638,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1652,7 +1652,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1666,7 +1666,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1680,7 +1680,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1694,7 +1694,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1708,7 +1708,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1722,7 +1722,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1736,7 +1736,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1750,7 +1750,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1764,7 +1764,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1778,7 +1778,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 3 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9004",
     "config_description": "1 Start x 3 Stage x 1800mm x Ø270mm ",
@@ -1792,7 +1792,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x3x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1806,7 +1806,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1820,7 +1820,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1834,7 +1834,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1848,7 +1848,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1862,7 +1862,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1876,7 +1876,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1890,7 +1890,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1904,7 +1904,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1918,7 +1918,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1932,7 +1932,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1946,7 +1946,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1960,7 +1960,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1974,7 +1974,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -1988,7 +1988,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2002,7 +2002,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2016,7 +2016,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2030,7 +2030,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2044,7 +2044,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2058,7 +2058,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2072,7 +2072,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2086,7 +2086,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2100,7 +2100,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2114,7 +2114,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2128,7 +2128,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2142,7 +2142,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2156,7 +2156,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2170,7 +2170,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2184,7 +2184,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia. \r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2198,7 +2198,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2212,7 +2212,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2226,7 +2226,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR270",
     "config": "1 Start x 2 Stage x 1800mm x Ø270mm ",
     "model_number": "HTR9012",
     "config_description": "1 Start x 2 Stage x 1800mm x Ø270mm ",
@@ -2240,7 +2240,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR 1x2x1800x270dia.\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2254,7 +2254,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2268,7 +2268,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2282,7 +2282,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2296,7 +2296,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2310,7 +2310,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2324,7 +2324,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2338,7 +2338,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2352,7 +2352,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2366,7 +2366,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2380,7 +2380,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2394,7 +2394,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2408,7 +2408,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2422,7 +2422,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2436,7 +2436,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2450,7 +2450,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2464,11 +2464,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "400V / 3P",
     "variant4": "50Hz",
@@ -2478,11 +2478,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "400V / 3P",
     "variant4": "60Hz",
@@ -2492,11 +2492,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
@@ -2506,11 +2506,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
@@ -2520,7 +2520,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2534,7 +2534,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2548,7 +2548,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2562,7 +2562,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2576,11 +2576,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "400V / 3P",
     "variant4": "50Hz",
@@ -2590,11 +2590,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "400V / 3P",
     "variant4": "60Hz",
@@ -2604,11 +2604,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
@@ -2618,11 +2618,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
@@ -2632,7 +2632,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2646,7 +2646,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2660,7 +2660,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2674,7 +2674,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9032",
     "config_description": "1 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -2688,7 +2688,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2702,7 +2702,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2716,7 +2716,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2730,7 +2730,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2744,7 +2744,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2758,7 +2758,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2772,7 +2772,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2786,7 +2786,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2800,7 +2800,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2814,7 +2814,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2828,7 +2828,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2842,7 +2842,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2856,7 +2856,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2870,7 +2870,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2884,7 +2884,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2898,7 +2898,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2912,7 +2912,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2926,7 +2926,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2940,7 +2940,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2954,7 +2954,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2968,7 +2968,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2982,7 +2982,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -2996,7 +2996,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3010,7 +3010,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3024,7 +3024,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3038,7 +3038,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3052,7 +3052,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3066,7 +3066,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3080,7 +3080,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3094,7 +3094,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3108,7 +3108,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3122,7 +3122,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "1 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9033",
     "config_description": "1 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -3136,7 +3136,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3150,7 +3150,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3164,7 +3164,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3178,7 +3178,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3192,7 +3192,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3206,7 +3206,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3220,7 +3220,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3234,7 +3234,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3248,7 +3248,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3262,7 +3262,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3276,7 +3276,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3290,7 +3290,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3304,7 +3304,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3318,7 +3318,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3332,7 +3332,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3346,7 +3346,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3360,7 +3360,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3374,7 +3374,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3388,7 +3388,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3402,7 +3402,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3416,7 +3416,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3430,7 +3430,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3444,7 +3444,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3458,7 +3458,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3472,7 +3472,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3486,7 +3486,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3500,7 +3500,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3514,7 +3514,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3528,7 +3528,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3542,7 +3542,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3556,7 +3556,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3570,7 +3570,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 3 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9034",
     "config_description": "2 Start x 3 Stage x 2000mm x Ø400mm ",
@@ -3584,7 +3584,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 3 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3598,7 +3598,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3612,7 +3612,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3626,7 +3626,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3640,7 +3640,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3654,7 +3654,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3668,7 +3668,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3682,7 +3682,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3696,7 +3696,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3710,7 +3710,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3724,7 +3724,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3738,7 +3738,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3752,7 +3752,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3766,7 +3766,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3780,7 +3780,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3794,7 +3794,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3808,7 +3808,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3822,7 +3822,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1 \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3836,11 +3836,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1 \r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
@@ -3850,11 +3850,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
@@ -3864,11 +3864,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "525V / 3P",
     "variant4": "50Hz",
@@ -3878,11 +3878,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "525V / 3P",
     "variant4": "60Hz",
@@ -3892,11 +3892,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "Other",
     "variant4": "50Hz",
@@ -3906,11 +3906,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Negative (-)",
     "variant3": "Other",
     "variant4": "60Hz",
@@ -3920,7 +3920,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3934,7 +3934,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
@@ -3948,11 +3948,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "480V / 3P",
     "variant4": "50Hz",
@@ -3962,11 +3962,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "480V / 3P",
     "variant4": "60Hz",
@@ -3976,11 +3976,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "525V / 3P",
     "variant4": "50Hz",
@@ -3990,11 +3990,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "525V / 3P",
     "variant4": "60Hz",
@@ -4004,11 +4004,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "Other",
     "variant4": "50Hz",
@@ -4018,11 +4018,11 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "4 Start x 1 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9035",
     "config_description": "4 Start x 1 Stage x 2000mm x Ø400mm ",
-    "variant1": "Glass Less",
+    "variant1": "GlassLess",
     "variant2": "Positive (+)",
     "variant3": "Other",
     "variant4": "60Hz",
@@ -4032,7 +4032,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 4x1\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4046,7 +4046,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4060,7 +4060,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4074,7 +4074,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4088,7 +4088,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4102,7 +4102,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4116,7 +4116,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4130,7 +4130,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4144,7 +4144,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4158,7 +4158,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4172,7 +4172,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4186,7 +4186,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4200,7 +4200,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4214,7 +4214,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4228,7 +4228,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4242,7 +4242,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4256,7 +4256,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4270,7 +4270,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4284,7 +4284,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4298,7 +4298,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4312,7 +4312,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4326,7 +4326,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4340,7 +4340,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4354,7 +4354,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4368,7 +4368,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Negative\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4382,7 +4382,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4396,7 +4396,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4410,7 +4410,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4424,7 +4424,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4438,7 +4438,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4452,7 +4452,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4466,7 +4466,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "HTR",
+    "model_type": "HTR400",
     "config": "2 Start x 2 Stage x 2000mm x Ø400mm ",
     "model_number": "HTR9036",
     "config_description": "2 Start x 2 Stage x 2000mm x Ø400mm ",
@@ -4480,7 +4480,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit HTR400 x 2 Stage\r\nHT Power Supply Polarity: Positive\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4494,7 +4494,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4508,7 +4508,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4522,7 +4522,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4536,7 +4536,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4550,7 +4550,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4564,7 +4564,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4578,7 +4578,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4592,7 +4592,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4606,7 +4606,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4620,7 +4620,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4634,7 +4634,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4648,7 +4648,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4662,7 +4662,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4676,7 +4676,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4690,7 +4690,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4704,7 +4704,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4718,7 +4718,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4732,7 +4732,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4746,7 +4746,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4760,7 +4760,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4774,7 +4774,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4788,7 +4788,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4802,7 +4802,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4816,7 +4816,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4830,7 +4830,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4844,7 +4844,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4858,7 +4858,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4872,7 +4872,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4886,7 +4886,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4900,7 +4900,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4914,7 +4914,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4928,7 +4928,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4942,7 +4942,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4956,7 +4956,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4970,7 +4970,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -4984,7 +4984,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -4998,7 +4998,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5012,7 +5012,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5026,7 +5026,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5040,7 +5040,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5054,7 +5054,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5068,7 +5068,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5082,7 +5082,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5096,7 +5096,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5110,7 +5110,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5124,7 +5124,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5138,7 +5138,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5152,7 +5152,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5166,7 +5166,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5180,7 +5180,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5194,7 +5194,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5208,7 +5208,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5222,7 +5222,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5236,7 +5236,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5250,7 +5250,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5264,7 +5264,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5278,7 +5278,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5292,7 +5292,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5306,7 +5306,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5320,7 +5320,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5334,7 +5334,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5348,7 +5348,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5362,7 +5362,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5376,7 +5376,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5390,7 +5390,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5404,7 +5404,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5418,7 +5418,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5432,7 +5432,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5446,7 +5446,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5460,7 +5460,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5474,7 +5474,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5488,7 +5488,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5502,7 +5502,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5516,7 +5516,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5530,7 +5530,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5544,7 +5544,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5558,7 +5558,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5572,7 +5572,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5586,7 +5586,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5600,7 +5600,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5614,7 +5614,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5628,7 +5628,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5642,7 +5642,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5656,7 +5656,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5670,7 +5670,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5684,7 +5684,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5698,7 +5698,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5712,7 +5712,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5726,7 +5726,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5740,7 +5740,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5754,7 +5754,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5768,7 +5768,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5782,7 +5782,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5796,7 +5796,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm",
     "model_number": "RED9011",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm",
@@ -5810,7 +5810,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9011",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -5824,7 +5824,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
@@ -5838,7 +5838,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
@@ -5852,7 +5852,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
@@ -5866,7 +5866,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
@@ -5880,7 +5880,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
@@ -5894,7 +5894,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
@@ -5908,7 +5908,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
@@ -5922,7 +5922,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm  ",
@@ -5936,7 +5936,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
@@ -5950,7 +5950,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
@@ -5964,7 +5964,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
@@ -5978,7 +5978,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
@@ -5992,7 +5992,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
@@ -6006,7 +6006,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
@@ -6020,7 +6020,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
@@ -6034,7 +6034,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
     "model_number": "RED9012",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm (Scalper)",
@@ -6048,7 +6048,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
@@ -6062,7 +6062,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
@@ -6076,7 +6076,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
@@ -6090,7 +6090,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
@@ -6104,7 +6104,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
@@ -6118,7 +6118,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
@@ -6132,7 +6132,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
@@ -6146,7 +6146,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm",
@@ -6160,7 +6160,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
@@ -6174,7 +6174,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
@@ -6188,7 +6188,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
@@ -6202,7 +6202,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
@@ -6216,7 +6216,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
@@ -6230,7 +6230,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
@@ -6244,7 +6244,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
@@ -6258,7 +6258,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
     "model_number": "RED9016",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø400mm (Scalper)",
@@ -6272,7 +6272,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6286,7 +6286,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6300,7 +6300,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6314,7 +6314,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6328,7 +6328,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6342,7 +6342,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6356,7 +6356,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6370,7 +6370,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6384,7 +6384,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6398,7 +6398,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6412,7 +6412,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6426,7 +6426,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6440,7 +6440,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6454,7 +6454,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6468,7 +6468,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6482,7 +6482,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6496,7 +6496,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6510,7 +6510,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6524,7 +6524,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6538,7 +6538,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6552,7 +6552,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6566,7 +6566,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6580,7 +6580,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6594,7 +6594,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6608,7 +6608,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6622,7 +6622,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6636,7 +6636,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6650,7 +6650,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6664,7 +6664,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6678,7 +6678,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6692,7 +6692,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6706,7 +6706,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6720,7 +6720,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6734,7 +6734,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6748,7 +6748,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6762,7 +6762,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6776,7 +6776,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6790,7 +6790,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6804,7 +6804,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6818,7 +6818,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6832,7 +6832,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6846,7 +6846,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6860,7 +6860,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6874,7 +6874,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6888,7 +6888,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6902,7 +6902,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6916,7 +6916,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6930,7 +6930,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6944,7 +6944,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6958,7 +6958,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -6972,7 +6972,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -6986,7 +6986,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7000,7 +7000,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7014,7 +7014,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7028,7 +7028,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7042,7 +7042,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7056,7 +7056,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7070,7 +7070,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7084,7 +7084,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7098,7 +7098,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7112,7 +7112,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7126,7 +7126,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7140,7 +7140,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7154,7 +7154,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7168,7 +7168,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7182,7 +7182,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7196,7 +7196,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7210,7 +7210,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7224,7 +7224,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7238,7 +7238,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7252,7 +7252,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7266,7 +7266,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7280,7 +7280,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7294,7 +7294,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7308,7 +7308,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7322,7 +7322,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7336,7 +7336,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7350,7 +7350,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7364,7 +7364,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7378,7 +7378,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7392,7 +7392,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7406,7 +7406,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7420,7 +7420,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7434,7 +7434,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7448,7 +7448,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7462,7 +7462,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7476,7 +7476,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7490,7 +7490,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7504,7 +7504,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7518,7 +7518,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7532,7 +7532,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7546,7 +7546,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7560,7 +7560,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7574,7 +7574,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7588,7 +7588,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1000mm x Ø400mm ",
     "model_number": "RED9018",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø400mm ",
@@ -7602,7 +7602,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
     "model_number": "RED9018",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø400mm + Scalper Drum",
@@ -7616,7 +7616,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7630,7 +7630,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7644,7 +7644,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7658,7 +7658,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7672,7 +7672,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7686,7 +7686,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7700,7 +7700,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7714,7 +7714,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7728,7 +7728,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7742,7 +7742,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7756,7 +7756,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7770,7 +7770,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7784,7 +7784,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7798,7 +7798,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7812,7 +7812,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7826,7 +7826,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7840,7 +7840,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7854,7 +7854,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7868,7 +7868,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7882,7 +7882,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7896,7 +7896,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7910,7 +7910,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7924,7 +7924,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7938,7 +7938,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7952,7 +7952,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7966,7 +7966,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -7980,7 +7980,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -7994,7 +7994,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8008,7 +8008,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8022,7 +8022,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8036,7 +8036,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8050,7 +8050,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8064,7 +8064,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8078,7 +8078,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8092,7 +8092,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8106,7 +8106,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8120,7 +8120,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8134,7 +8134,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8148,7 +8148,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8162,7 +8162,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8176,7 +8176,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8190,7 +8190,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8204,7 +8204,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8218,7 +8218,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8232,7 +8232,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8246,7 +8246,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8260,7 +8260,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1500mm x Ø600mm",
     "model_number": "RED9019",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø600mm",
@@ -8274,7 +8274,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9019",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8288,7 +8288,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8302,7 +8302,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8316,7 +8316,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8330,7 +8330,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8344,7 +8344,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8358,7 +8358,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8372,7 +8372,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8386,7 +8386,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8400,7 +8400,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8414,7 +8414,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8428,7 +8428,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8442,7 +8442,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8456,7 +8456,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8470,7 +8470,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8484,7 +8484,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8498,7 +8498,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8512,7 +8512,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8526,7 +8526,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8540,7 +8540,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8554,7 +8554,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8568,7 +8568,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8582,7 +8582,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8596,7 +8596,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8610,7 +8610,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8624,7 +8624,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8638,7 +8638,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8652,7 +8652,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8666,7 +8666,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8680,7 +8680,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8694,7 +8694,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8708,7 +8708,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8722,7 +8722,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8736,7 +8736,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8750,7 +8750,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8764,7 +8764,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8778,7 +8778,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8792,7 +8792,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8806,7 +8806,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8820,7 +8820,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8834,7 +8834,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8848,7 +8848,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8862,7 +8862,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8876,7 +8876,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8890,7 +8890,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8904,7 +8904,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8918,7 +8918,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8932,7 +8932,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9020",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø600mm  ",
@@ -8946,7 +8946,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
     "model_number": "RED9020",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm + Scalper Drum",
@@ -8960,7 +8960,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
@@ -8974,7 +8974,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
@@ -8988,7 +8988,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
@@ -9002,7 +9002,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
@@ -9016,7 +9016,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
@@ -9030,7 +9030,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
@@ -9044,7 +9044,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
@@ -9058,7 +9058,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm  ",
@@ -9072,7 +9072,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
@@ -9086,7 +9086,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
@@ -9100,7 +9100,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
@@ -9114,7 +9114,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
@@ -9128,7 +9128,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
@@ -9142,7 +9142,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
@@ -9156,7 +9156,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
@@ -9170,7 +9170,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
     "model_number": "RED9021",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø600mm (Scalper)",
@@ -9184,7 +9184,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9198,7 +9198,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9212,7 +9212,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9226,7 +9226,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9240,7 +9240,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9254,7 +9254,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9268,7 +9268,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9282,7 +9282,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9296,7 +9296,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9310,7 +9310,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9324,7 +9324,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9338,7 +9338,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9352,7 +9352,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9366,7 +9366,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9380,7 +9380,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9394,7 +9394,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9408,7 +9408,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9422,7 +9422,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9436,7 +9436,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9450,7 +9450,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9464,7 +9464,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9478,7 +9478,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9492,7 +9492,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9506,7 +9506,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9520,7 +9520,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9534,7 +9534,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9548,7 +9548,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9562,7 +9562,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9576,7 +9576,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9590,7 +9590,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9604,7 +9604,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9618,7 +9618,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9632,7 +9632,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9646,7 +9646,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9660,7 +9660,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9674,7 +9674,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9688,7 +9688,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9702,7 +9702,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9716,7 +9716,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9730,7 +9730,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9744,7 +9744,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9758,7 +9758,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9772,7 +9772,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9786,7 +9786,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9800,7 +9800,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9814,7 +9814,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9828,7 +9828,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 3 Stage x 1000mm x Ø600mm ",
     "model_number": "RED9022",
     "config_description": "1 Start x 3 Stage x 1000mm x Ø600mm ",
@@ -9842,7 +9842,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9022",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9856,7 +9856,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -9870,7 +9870,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -9884,7 +9884,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9898,7 +9898,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9912,7 +9912,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -9926,7 +9926,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -9940,7 +9940,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9954,7 +9954,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -9968,7 +9968,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -9982,7 +9982,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -9996,7 +9996,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10010,7 +10010,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10024,7 +10024,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10038,7 +10038,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10052,7 +10052,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10066,7 +10066,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10080,7 +10080,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10094,7 +10094,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10108,7 +10108,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10122,7 +10122,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10136,7 +10136,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10150,7 +10150,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10164,7 +10164,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10178,7 +10178,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10192,7 +10192,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10206,7 +10206,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10220,7 +10220,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10234,7 +10234,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10248,7 +10248,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10262,7 +10262,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10276,7 +10276,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10290,7 +10290,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10304,7 +10304,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10318,7 +10318,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10332,7 +10332,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10346,7 +10346,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10360,7 +10360,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10374,7 +10374,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10388,7 +10388,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10402,7 +10402,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10416,7 +10416,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10430,7 +10430,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10444,7 +10444,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10458,7 +10458,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10472,7 +10472,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10486,7 +10486,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10500,7 +10500,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 2 Stage x 1000mm x Ø600mm",
     "model_number": "RED9023",
     "config_description": "1 Start x 2 Stage x 1000mm x Ø600mm",
@@ -10514,7 +10514,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
     "model_number": "RED9023",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm + Scalper Drum",
@@ -10528,7 +10528,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
@@ -10542,7 +10542,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
@@ -10556,7 +10556,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
@@ -10570,7 +10570,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
@@ -10584,7 +10584,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
@@ -10598,7 +10598,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
@@ -10612,7 +10612,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
@@ -10626,7 +10626,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm  ",
@@ -10640,7 +10640,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
@@ -10654,7 +10654,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
@@ -10668,7 +10668,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
@@ -10682,7 +10682,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
@@ -10696,7 +10696,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
@@ -10710,7 +10710,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
@@ -10724,7 +10724,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
@@ -10738,7 +10738,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED600",
     "config": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
     "model_number": "RED9024",
     "config_description": "1 Start x 1 Stage x 1000mm x Ø600mm (Scalper)",
@@ -10752,7 +10752,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 1 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10766,7 +10766,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10780,7 +10780,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -10794,7 +10794,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -10808,7 +10808,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10822,7 +10822,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10836,7 +10836,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -10850,7 +10850,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -10864,7 +10864,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10878,7 +10878,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10892,7 +10892,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -10906,7 +10906,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -10920,7 +10920,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10934,7 +10934,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10948,7 +10948,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -10962,7 +10962,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -10976,7 +10976,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -10990,7 +10990,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11004,7 +11004,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11018,7 +11018,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11032,7 +11032,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11046,7 +11046,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11060,7 +11060,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11074,7 +11074,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11088,7 +11088,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11102,7 +11102,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11116,7 +11116,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11130,7 +11130,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11144,7 +11144,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11158,7 +11158,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11172,7 +11172,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11186,7 +11186,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11200,7 +11200,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11214,7 +11214,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11228,7 +11228,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11242,7 +11242,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11256,7 +11256,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11270,7 +11270,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11284,7 +11284,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11298,7 +11298,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11312,7 +11312,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11326,7 +11326,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11340,7 +11340,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11354,7 +11354,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11368,7 +11368,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11382,7 +11382,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11396,7 +11396,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11410,7 +11410,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11424,7 +11424,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11438,7 +11438,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11452,7 +11452,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11466,7 +11466,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11480,7 +11480,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11494,7 +11494,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11508,7 +11508,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11522,7 +11522,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11536,7 +11536,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11550,7 +11550,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11564,7 +11564,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11578,7 +11578,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11592,7 +11592,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11606,7 +11606,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11620,7 +11620,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11634,7 +11634,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11648,7 +11648,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11662,7 +11662,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11676,7 +11676,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11690,7 +11690,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11704,7 +11704,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11718,7 +11718,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11732,7 +11732,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11746,7 +11746,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11760,7 +11760,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11774,7 +11774,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11788,7 +11788,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11802,7 +11802,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11816,7 +11816,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11830,7 +11830,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11844,7 +11844,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11858,7 +11858,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11872,7 +11872,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11886,7 +11886,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11900,7 +11900,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11914,7 +11914,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11928,7 +11928,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11942,7 +11942,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11956,7 +11956,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11970,7 +11970,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -11984,7 +11984,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -11998,7 +11998,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12012,7 +12012,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -12026,7 +12026,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12040,7 +12040,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -12054,7 +12054,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12068,7 +12068,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm",
     "model_number": "RED9041",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm",
@@ -12082,7 +12082,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9041",
     "config_description": "1 Start x 1 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12096,7 +12096,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 2 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12110,7 +12110,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12124,7 +12124,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12138,7 +12138,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12152,7 +12152,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12166,7 +12166,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12180,7 +12180,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12194,7 +12194,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12208,7 +12208,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12222,7 +12222,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12236,7 +12236,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12250,7 +12250,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12264,7 +12264,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12278,7 +12278,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12292,7 +12292,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12306,7 +12306,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12320,7 +12320,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12334,7 +12334,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12348,7 +12348,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12362,7 +12362,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12376,7 +12376,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12390,7 +12390,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12404,7 +12404,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12418,7 +12418,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12432,7 +12432,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12446,7 +12446,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12460,7 +12460,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12474,7 +12474,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12488,7 +12488,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12502,7 +12502,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12516,7 +12516,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12530,7 +12530,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12544,7 +12544,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12558,7 +12558,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12572,7 +12572,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12586,7 +12586,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12600,7 +12600,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12614,7 +12614,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12628,7 +12628,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12642,7 +12642,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12656,7 +12656,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12670,7 +12670,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12684,7 +12684,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12698,7 +12698,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12712,7 +12712,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12726,7 +12726,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12740,7 +12740,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12754,7 +12754,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12768,7 +12768,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12782,7 +12782,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12796,7 +12796,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12810,7 +12810,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12824,7 +12824,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12838,7 +12838,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12852,7 +12852,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12866,7 +12866,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12880,7 +12880,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12894,7 +12894,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12908,7 +12908,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12922,7 +12922,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12936,7 +12936,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12950,7 +12950,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -12964,7 +12964,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12978,7 +12978,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -12992,7 +12992,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13006,7 +13006,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13020,7 +13020,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13034,7 +13034,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13048,7 +13048,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13062,7 +13062,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13076,7 +13076,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13090,7 +13090,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13104,7 +13104,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13118,7 +13118,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13132,7 +13132,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13146,7 +13146,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13160,7 +13160,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13174,7 +13174,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13188,7 +13188,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13202,7 +13202,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13216,7 +13216,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13230,7 +13230,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13244,7 +13244,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13258,7 +13258,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13272,7 +13272,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 400V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13286,7 +13286,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13300,7 +13300,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13314,7 +13314,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13328,7 +13328,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 480V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13342,7 +13342,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13356,7 +13356,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 50Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13370,7 +13370,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13384,7 +13384,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: 525V / 3P / 60Hz"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13398,7 +13398,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
@@ -13412,7 +13412,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 3 Stage x 1500mm x Ø400mm ",
     "model_number": "RED9043",
     "config_description": "1 Start x 3 Stage x 1500mm x Ø400mm ",
@@ -13426,7 +13426,7 @@ const ALL_MODELS = [
     "control_panel_description": "Control Panel to suit RED 3 Stage\r\nPower Supply: Other"
   },
   {
-    "model_type": "RED",
+    "model_type": "RED400",
     "config": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
     "model_number": "RED9043",
     "config_description": "1 Start x 2 Stage x 1500mm x Ø400mm + Scalper Drum",
