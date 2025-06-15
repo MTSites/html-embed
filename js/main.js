@@ -580,22 +580,12 @@ configSelect.addEventListener('change', function () {
         variant3Select.disabled = true;
       }
 
-      // Populate variant4 dropdown
-      if (uniqueV4.length > 0) {
-        variant4Select.disabled = false;
-        uniqueV4.forEach(v => {
-          const option = document.createElement('option');
-          option.value = v;
-          option.textContent = v;
-          variant4Select.appendChild(option);
-        });
-        if (uniqueV4.length === 1) {
-          variant4Select.value = uniqueV4[0];
-          console.log(`✅ Auto-selected variant4: "${uniqueV4[0]}"`);
-        }
-      } else {
-        variant4Select.disabled = true;
-      }
+      // Store all V4 options for dynamic filtering based on V3 selection
+      window.allV4Options = uniqueV4;
+      window.configMatches = configMatches;
+
+      // Initially populate variant4 with all available options
+      populateVariant4Options(uniqueV4);
 
     } else {
       console.warn('⚠️ No matching entries found for this model+config combination');
@@ -652,24 +642,92 @@ configSelect.addEventListener('change', function () {
         }
       }
 
-      // Populate variant4
-      if (v4Options && v4Options.length > 0) {
-        variant4Select.disabled = false;
-        v4Options.forEach(v => {
-          const option = document.createElement('option');
-          option.value = v;
-          option.textContent = v;
-          variant4Select.appendChild(option);
-        });
-        if (v4Options.length === 1) {
-          variant4Select.value = v4Options[0];
-        }
-      }
+      // Store all V4 options for dynamic filtering
+      window.allV4Options = v4Options || [];
+      
+      // Initially populate variant4 with all available options
+      populateVariant4Options(window.allV4Options);
     }
   }
 
   // Try to auto populate if everything is prefilled
   tryPopulateIfReady();
+});
+
+// Function to populate variant4 options
+function populateVariant4Options(v4Options) {
+  // Reset variant4 dropdown
+  resetDropdown(variant4Select, variant4Label.textContent);
+  
+  if (v4Options && v4Options.length > 0) {
+    variant4Select.disabled = false;
+    v4Options.forEach(v => {
+      const option = document.createElement('option');
+      option.value = v;
+      option.textContent = v;
+      variant4Select.appendChild(option);
+    });
+    if (v4Options.length === 1) {
+      variant4Select.value = v4Options[0];
+      console.log(`✅ Auto-selected variant4: "${v4Options[0]}"`);
+    }
+  } else {
+    variant4Select.disabled = true;
+  }
+}
+
+// Function to filter variant4 options based on variant3 selection
+function filterVariant4ByVariant3(selectedV3) {
+  console.log(`🔄 Filtering Variant4 options based on Variant3: "${selectedV3}"`);
+  
+  if (!window.allV4Options || window.allV4Options.length === 0) {
+    console.log('⚠️ No V4 options available to filter');
+    return;
+  }
+
+  let filteredV4Options = [];
+
+  // Check if variant3 is 400V / 3P - only show 50Hz
+  if (selectedV3 === '400V / 3P') {
+    console.log('🎯 400V / 3P selected - filtering to show only 50Hz');
+    filteredV4Options = window.allV4Options.filter(option => 
+      option.includes('50Hz') || option === '50Hz'
+    );
+  }
+  // For 480V / 3P, 525V / 3P and others - show both 50Hz and 60Hz
+  else if (selectedV3 === '480V / 3P' || selectedV3 === '525V / 3P' || selectedV3) {
+    console.log(`🎯 ${selectedV3} selected - showing both 50Hz and 60Hz options`);
+    filteredV4Options = window.allV4Options.filter(option => 
+      option.includes('50Hz') || option.includes('60Hz') || 
+      option === '50Hz' || option === '60Hz'
+    );
+  }
+  // Fallback - show all options
+  else {
+    console.log('🎯 Unknown V3 selection - showing all V4 options');
+    filteredV4Options = window.allV4Options;
+  }
+
+  console.log(`📋 Filtered V4 options: [${filteredV4Options.join(', ')}]`);
+  
+  // Populate the filtered options
+  populateVariant4Options(filteredV4Options);
+}
+
+// Add event listener for variant3 changes
+variant3Select.addEventListener('change', function() {
+  const selectedV3 = variant3Select.value;
+  console.log(`🔧 Variant3 changed to: "${selectedV3}"`);
+  
+  if (selectedV3) {
+    filterVariant4ByVariant3(selectedV3);
+  } else {
+    // If no V3 selected, show all V4 options
+    populateVariant4Options(window.allV4Options || []);
+  }
+  
+  // Clear details when variant3 changes
+  clearModelDetails();
 });
 
 // Handle variant selections
@@ -975,7 +1033,7 @@ document.getElementById('addItemBtn').addEventListener('click', function() {
   }
 
     
-    // Helper function to PDF Export
+// Helper function to PDF Export
 function exportToPDF() {
     const tableBody = document.getElementById('itemsTableBody');
     const noItemsRow = document.getElementById('noItemsRow');
@@ -984,14 +1042,46 @@ function exportToPDF() {
         return;
     }
 
-    const customer = document.getElementById('customerInput').value;
-    const site = document.getElementById('siteInput').value;
-    const mtQuote = document.getElementById('mtQuoteInput').value;
-    const requestedBy = document.getElementById('requestedByInput').value;
-    const date = document.getElementById('dateInput').value;
-    const comments = document.getElementById('commentsInput').value;
+    // Get all header field values
+    const customer = document.getElementById('customerInput').value.trim();
+    const site = document.getElementById('siteInput').value.trim();
+    const mtQuote = document.getElementById('mtQuoteInput').value.trim();
+    const requestedBy = document.getElementById('requestedByInput').value.trim();
+    const date = document.getElementById('dateInput').value.trim();
+    const comments = document.getElementById('commentsInput').value.trim();
 
-    const filename = `Tender_${customer}_${date.replace(/-/g, '')}.pdf`;
+    // Get today's date in DD-MM-YYYY format to check if date is just default
+    const today = new Date();
+    const todayFormatted = String(today.getDate()).padStart(2, '0') + '-' + 
+                          String(today.getMonth() + 1).padStart(2, '0') + '-' + 
+                          today.getFullYear();
+    const isDateDefault = date === todayFormatted;
+
+    // Check if ALL header fields are filled (all required)
+    const allHeaderFieldsFilled = customer && site && mtQuote && requestedBy && date && !isDateDefault;
+    
+    // Check if comments are empty
+    const commentsEmpty = !comments;
+
+    // Require ALL header fields to be filled before export
+    if (!allHeaderFieldsFilled) {
+        alert('Please fill in ALL header fields (Customer, Site, MT Quote, Requested By, and Date) before exporting to PDF.');
+        return;
+    }
+
+    // Debug logging to help troubleshoot
+    console.log('Validation check:');
+    console.log('Customer:', customer);
+    console.log('Site:', site);
+    console.log('MT Quote:', mtQuote);
+    console.log('Requested By:', requestedBy);
+    console.log('Date:', date);
+    console.log('Today (DD-MM-YYYY):', todayFormatted);
+    console.log('Is date default:', isDateDefault);
+    console.log('Comments:', comments);
+    console.log('All header fields filled:', allHeaderFieldsFilled);
+
+    const filename = `Tender_${customer || 'Unknown'}_${date ? date.replace(/-/g, '') : new Date().toISOString().slice(0,10).replace(/-/g, '')}.pdf`;
     const { jsPDF } = window.jspdf;
     const doc = new jsPDF({ orientation: 'landscape', unit: 'mm', format: 'a4' });
     const pageWidth = doc.internal.pageSize.getWidth();
@@ -1197,6 +1287,6 @@ function cleanupAfterExport() {
         console.error('Error cleaning up form:', error);
         // Don't show error to user since PDF was created successfully
         alert('PDF exported successfully! Please manually clear the form for next use.');
+      }
     }
-  }
 });
